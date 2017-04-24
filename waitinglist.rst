@@ -16,3 +16,4 @@ based on the order of this list):
 * Angus Thomas - Horsham, UK. angus.thomas@gmail.com Code Club leader
 * Joshua Jay herman - Chicago, IL zitterbewegung@gmail.com Member of chipy and CEO of A Cons Apart developing software for 3d printing and search by shape.
 * Helen Sherwood-Taylor - Haslemere, UK - Freelance developer and pythonaut, keen to spend some time with the microbit :)
+* Roman Kuechler - 8596 Scherzingen, Switzerland - Systems Engineer and dad, wants to inspire his son Timo Neil for coding. :-)
